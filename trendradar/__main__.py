@@ -1,7 +1,7 @@
 # coding=utf-8
 """
 TrendRadar 主程序
-
+chenxin
 热点新闻聚合与分析工具
 支持: python -m trendradar
 """
